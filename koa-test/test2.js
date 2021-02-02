@@ -16,7 +16,7 @@ app.use(async (ctx, next) => {
 
 app.use(async (ctx, next) => {
   ctx.response.type = "text/html";
-  ctx.response.body = "<h>hello koa</h>";
+  ctx.response.body = "<p>hello koa</p>";
 });
 
 app.listen(3000);
