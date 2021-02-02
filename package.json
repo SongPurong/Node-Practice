@@ -1,0 +1,26 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "personal practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SongPurong/Node-Practice.git"
+  },
+  "keywords": [
+    "node",
+    "practice"
+  ],
+  "author": "pr.song",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SongPurong/Node-Practice/issues"
+  },
+  "homepage": "https://github.com/SongPurong/Node-Practice#readme",
+  "dependencies": {
+    "koa": "^2.13.1"
+  }
+}
